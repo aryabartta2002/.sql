@@ -17,6 +17,7 @@ This repository contains my daily SQL practice queries.
 ## Files
 - basic_18_5_26.sql → Basic SQL practice queries (DDL, DML, TCL)
 - basic_19_5_26.sql → Basic SQL practice queries (DDL, DML, TCL)
+- groupBy_orderBy_Having.sql → Group By, Order By, Having, Where
 
 ## Goal
 Improve SQL skills for Data Science and Data Analyst roles.
