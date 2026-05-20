@@ -15,7 +15,8 @@ This repository contains my daily SQL practice queries.
 - Window Functions
 
 ## Files
-- basic_18_5_26.sql → Basic SQL practice queries
+- basic_18_5_26.sql → Basic SQL practice queries (DDL, DML, TCL)
+- basic_19_5_26.sql → Basic SQL practice queries (DDL, DML, TCL)
 
 ## Goal
 Improve SQL skills for Data Science and Data Analyst roles.
