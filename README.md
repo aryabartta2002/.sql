@@ -20,6 +20,7 @@ This repository contains my daily SQL practice queries.
 - groupBy_orderBy_Having.sql → Group By, Order By, Having, Where
 - join_table_31_5-26.sql → join
 - join_1_6_26.sql → join
+- Multiple_join_2_6_26.sql → multiple table join (customer, orders, order_item, product)
 
 ## Goal
 Improve SQL skills for Data Science and Data Analyst roles.
