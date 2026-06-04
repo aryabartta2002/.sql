@@ -21,6 +21,7 @@ This repository contains my daily SQL practice queries.
 - join_table_31_5-26.sql → join
 - join_1_6_26.sql → join
 - Multiple_join_2_6_26.sql → multiple table join (customer, orders, order_item, product)
+- practice10_4_6_26.sql -> 10 Interview Questions 
 
 ## Goal
 Improve SQL skills for Data Science and Data Analyst roles.
